@@ -6655,7 +6655,7 @@ declare namespace echarts {
                             };
                         };
                     };
-                };
+                }[];
 
                 /**
                  * Whether to enable animation.
